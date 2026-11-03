@@ -1,0 +1,5 @@
+aws_region   = "ap-south-1"
+project_name = "github-actions-ec2-cicd"
+github_owner = "YOUR_GITHUB_USERNAME"
+github_repo  = "github-actions-ec2-cicd"
+github_branch = "main"
